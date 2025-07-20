@@ -11,6 +11,7 @@
 ## Skills Accumulated So Far 🧰
 - ReasonML
 - Typescript
+- Python
 - NodeJS
 - Kafka
 - Cassandra
